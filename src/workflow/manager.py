@@ -33,6 +33,7 @@ class WorkflowManager:
         self,
         workflow_name: str,
         file_content: bytes,
+        is_update: bool = False
     ) -> bool:
         """Save an uploaded workflow file.
 
