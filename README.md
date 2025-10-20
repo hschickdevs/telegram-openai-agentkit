@@ -18,7 +18,7 @@ A lightweight Telegram bot wrapper that enables Telegram users to chat directly 
 - 🔄 **Multi-Workflow Support** - Register and switch between multiple workflows per user
 - 📤 **Easy Updates** - Update existing workflows with new versions using `/update`
 - 💬 **Conversation Sessions** - Maintains conversation history using OpenAI Agents SDK
-- 📦 **Zero Config** - Just upload your exported Python files - no code changes needed
+- 📦 **Zero Config** - Just upload your exported agent builder workflows as-is with no code changes needed
 - ⚡ **Built on Latest Tech** - Uses `python-telegram-bot` 21.x and `openai-agents` SDK
 
 ---
