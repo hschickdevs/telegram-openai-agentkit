@@ -8,7 +8,7 @@
 [![OpenAI](https://img.shields.io/badge/OpenAI-AgentKit-412991?logo=openai)](https://platform.openai.com/)
 [![Telegram](https://img.shields.io/badge/Telegram-hschickdevs-blue?logo=telegram)](https://t.me/hschickdevs)
 
-A lightweight Telegram bot wrapper that enables Telegram users to chat directly with AgentKit-powered AI agents — **upload**, **switch**, and **interact** with workflows seamlessly **through a simple Telegram interface**.
+A lightweight Telegram bot wrapper that enables Telegram users to chat directly with [AgentKit-powered AI agents](https://openai.com/index/introducing-agentkit/) — **upload**, **switch**, and **interact** with workflows seamlessly **through a simple Telegram interface**.
 
 ![Telegram OpenAI AgentKit - Demo](./docs/img/demo.gif)
 
