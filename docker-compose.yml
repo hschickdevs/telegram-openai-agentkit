@@ -1,0 +1,7 @@
+services:
+  bot:
+    build: .
+    env_file: .env
+    volumes:
+      - ./${DATA_DIRECTORY:-data}:/app/${DATA_DIRECTORY:-data}
+    restart: unless-stopped
